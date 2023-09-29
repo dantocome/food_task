@@ -3,7 +3,7 @@ let favoriteFoods = ["Ripped plantain", "Drawsoup", "white rice/peppersoup"];
 // // Q2
 // console.log(favoriteFoods[2]);
 // // Q3
-// favoriteFoods.splice(3,0,"Moimoi");
+// favoriteFoods.splice(1,1,"Moimoi");
 // console.log(favoriteFoods);
 // // Q4
 //  favoriteFoods.shift();
@@ -20,7 +20,7 @@ let favoriteFoods = ["Ripped plantain", "Drawsoup", "white rice/peppersoup"];
 
 // // Q8a
 // let num = [2, 3, 4, 5];
-// let removeElement = num.splice(1,1);
+// let removeElement = num.splice(1,2);
 // console.log(num);
 
 // // Q8b
